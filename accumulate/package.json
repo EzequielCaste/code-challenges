@@ -1,0 +1,16 @@
+{
+  "name": "accumulate",
+  "version": "1.0.0",
+  "description": "Implement the `accumulate` operation, which, given a collection and an\r operation to perform on each element of the collection, returns a new\r collection containing the result of applying that operation to each element of\r the input collection.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watchAll"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.0.3"
+  }
+}
