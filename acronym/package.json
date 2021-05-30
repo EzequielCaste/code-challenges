@@ -1,0 +1,16 @@
+{
+  "name": "acronym",
+  "version": "1.0.0",
+  "description": "Convert a phrase to its acronym.",
+  "main": "acronym.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watchAll"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^27.0.3"
+  }
+}
