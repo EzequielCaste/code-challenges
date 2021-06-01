@@ -1,0 +1,15 @@
+{
+  "name": "gigasecond",
+  "version": "1.0.0",
+  "description": "Given a moment, determine the moment that would be after a gigasecond\r has passed.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.0.3"
+  }
+}
