@@ -1,0 +1,15 @@
+{
+  "name": "resistor-color",
+  "version": "1.0.0",
+  "description": "If you want to build something using a Raspberry Pi, you'll probably use _resistors_.\r For this exercise, you need to know two things about them:",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.0.3"
+  }
+}

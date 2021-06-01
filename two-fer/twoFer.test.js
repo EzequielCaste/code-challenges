@@ -1,4 +1,4 @@
-const twoFer = require('./two-fer');
+const twoFer = require('./twoFer');
 
 describe('twoFer()', () => {
   test('no name given', () => {
