@@ -1,0 +1,15 @@
+{
+  "name": "space-age",
+  "version": "1.0.0",
+  "description": "Given an age in seconds, calculate how old someone would be on:",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.0.3"
+  }
+}
